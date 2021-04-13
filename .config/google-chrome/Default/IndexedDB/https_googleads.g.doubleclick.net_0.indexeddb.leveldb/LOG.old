@@ -1,0 +1,5 @@
+2021/04/12-15:04:25.514 110d2 Reusing MANIFEST /home/as/.config/google-chrome/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/12-15:04:27.927 113bd Level-0 table #5: started
+2021/04/12-15:04:27.930 113bd Level-0 table #5: 385 bytes OK
+2021/04/12-15:04:27.936 113bd Delete type=0 #3
+2021/04/12-15:04:27.936 113bd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/04/13-15:23:27.435 2ca5 Reusing MANIFEST /home/as/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/13-15:23:27.435 2ca5 Recovering log #11
+2021/04/13-15:23:27.435 2ca5 Reusing old log /home/as/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000011.log 
+2021/04/13-15:40:02.143 3656 Level-0 table #16: started
+2021/04/13-15:40:02.153 3656 Level-0 table #16: 70390 bytes OK
+2021/04/13-15:40:02.157 3656 Delete type=0 #11
+2021/04/13-15:40:02.157 3656 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/13-15:40:02.157 3656 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0e\x00\x00\x05' @ 4012 : 1
+2021/04/13-15:40:02.157 3656 Compacting 1@1 + 1@2 files
+2021/04/13-15:40:02.161 3656 Generated table #17@1: 71 keys, 1558 bytes
+2021/04/13-15:40:02.161 3656 Compacted 1@1 + 1@2 files => 1558 bytes
+2021/04/13-15:40:02.164 3656 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/13-15:40:02.164 3656 Delete type=2 #16
+2021/04/13-15:40:02.165 3656 Delete type=2 #13
+2021/04/13-15:40:02.165 3656 Manual compaction at level-1 from '\x00\x0e\x00\x00\x05' @ 4012 : 1 .. (end); will stop at (end)

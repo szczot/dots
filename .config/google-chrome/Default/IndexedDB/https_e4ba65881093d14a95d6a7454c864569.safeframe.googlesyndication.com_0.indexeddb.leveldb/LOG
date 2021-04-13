@@ -1,0 +1,15 @@
+2021/04/13-12:47:05.553 1282 Reusing MANIFEST /home/as/.config/google-chrome/Default/IndexedDB/https_e4ba65881093d14a95d6a7454c864569.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/13-12:47:05.553 1282 Recovering log #4
+2021/04/13-12:47:05.553 1282 Reusing old log /home/as/.config/google-chrome/Default/IndexedDB/https_e4ba65881093d14a95d6a7454c864569.safeframe.googlesyndication.com_0.indexeddb.leveldb/000004.log 
+2021/04/13-12:47:17.490 1282 Level-0 table #8: started
+2021/04/13-12:47:17.494 1282 Level-0 table #8: 190 bytes OK
+2021/04/13-12:47:17.498 1282 Delete type=0 #4
+2021/04/13-12:47:17.498 1282 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/13-12:47:17.498 1282 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 9 : 1
+2021/04/13-12:47:17.498 1282 Compacting 1@1 + 1@2 files
+2021/04/13-12:47:17.501 1282 Generated table #9@1: 8 keys, 447 bytes
+2021/04/13-12:47:17.501 1282 Compacted 1@1 + 1@2 files => 447 bytes
+2021/04/13-12:47:17.505 1282 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/13-12:47:17.505 1282 Delete type=2 #5
+2021/04/13-12:47:17.505 1282 Delete type=2 #8
+2021/04/13-12:47:17.505 1282 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 9 : 1 .. (end); will stop at (end)

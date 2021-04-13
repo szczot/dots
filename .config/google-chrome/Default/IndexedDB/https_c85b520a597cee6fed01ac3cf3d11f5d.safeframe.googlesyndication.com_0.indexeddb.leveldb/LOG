@@ -1,0 +1,5 @@
+2021/04/08-15:10:18.396 369f Reusing MANIFEST /home/as/.config/google-chrome/Default/IndexedDB/https_c85b520a597cee6fed01ac3cf3d11f5d.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/08-15:10:33.973 2de5 Level-0 table #5: started
+2021/04/08-15:10:33.979 2de5 Level-0 table #5: 439 bytes OK
+2021/04/08-15:10:33.983 2de5 Delete type=0 #3
+2021/04/08-15:10:33.983 2de5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

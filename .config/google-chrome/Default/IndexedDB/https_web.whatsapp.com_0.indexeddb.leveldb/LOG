@@ -1,0 +1,6 @@
+2021/04/10-15:48:35.098 c6de Reusing MANIFEST /home/as/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/10-15:48:35.099 c6de Recovering log #3
+2021/04/10-15:48:35.138 c6de Reusing old log /home/as/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 
+2021/04/10-17:07:18.458 d62c Level-0 table #5: started
+2021/04/10-17:07:18.484 d62c Level-0 table #5: 1212604 bytes OK
+2021/04/10-17:07:18.488 d62c Delete type=0 #3
